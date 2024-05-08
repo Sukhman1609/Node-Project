@@ -37,7 +37,7 @@ const Detail = () => {
         <div className='logo'>
           <img className='foimg' id='logo-img' src='https://i.pinimg.com/736x/31/92/c5/3192c5a13626653bffeb2c1171df716f.jpg' alt='Not Avaiable'/>
         
-        <div><p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'500'}}>Sukhman</p><p style={{color:'grey', fontSize:'12pt', marginTop:'-10px',marginLeft:'10px', fontWeight:'500'}}>16-Sep-2023</p></div>
+        <div><p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'500'}}>Blog</p><p style={{color:'grey', fontSize:'12pt', marginTop:'-10px',marginLeft:'10px', fontWeight:'500'}}>16-Sep-2023</p></div>
         </div>
         <div className="footer-social">
         <ul className='foto'>
@@ -81,7 +81,7 @@ const Detail = () => {
         
         <div style={{marginTop:'-20px '}}>
           <p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'200',marginTop:'10px'}}>WRITTEN BY</p>
-          <p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'500',marginTop:'-10px'}}>Sukhman</p><p style={{color:'grey', fontSize:'12pt', marginTop:'-10px',marginLeft:'10px', fontWeight:'500'}}>16-Sep-2023</p></div>
+          <p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'500',marginTop:'-10px'}}>Blog</p><p style={{color:'grey', fontSize:'12pt', marginTop:'-10px',marginLeft:'10px', fontWeight:'500'}}>16-Sep-2023</p></div>
         </div>
 
         <hr className='detailHr'></hr>
@@ -104,7 +104,7 @@ const Detail = () => {
           <div className='logo'>
           <img className='foimg' id='logo-img' src='https://i.pinimg.com/736x/31/92/c5/3192c5a13626653bffeb2c1171df716f.jpg' alt='Not Avaiable'/>
         
-        <div><p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'500'}}>Sukhman</p><p style={{color:'grey', fontSize:'12pt', marginTop:'-10px',marginLeft:'10px', fontWeight:'500'}}>16-Sep-2023</p></div>
+        <div><p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'500'}}>Blog</p><p style={{color:'grey', fontSize:'12pt', marginTop:'-10px',marginLeft:'10px', fontWeight:'500'}}>16-Sep-2023</p></div>
         </div>
           </div>
           <div className='subTheLatest' id='moreCo'>
@@ -120,7 +120,7 @@ const Detail = () => {
           <div className='logo'>
           <img className='foimg' id='logo-img' src='https://i.pinimg.com/736x/31/92/c5/3192c5a13626653bffeb2c1171df716f.jpg' alt='Not Avaiable'/>
         
-        <div><p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'500'}}>Sukhman</p><p style={{color:'grey', fontSize:'12pt', marginTop:'-10px',marginLeft:'10px', fontWeight:'500'}}>16-Sep-2023</p></div>
+        <div><p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'500'}}>Blog</p><p style={{color:'grey', fontSize:'12pt', marginTop:'-10px',marginLeft:'10px', fontWeight:'500'}}>16-Sep-2023</p></div>
         </div>
           </div>
           <div className='subTheLatest' id='moreCo'>
@@ -137,7 +137,7 @@ const Detail = () => {
           <div className='logo'>
           <img className='foimg' id='logo-img' src='https://i.pinimg.com/736x/31/92/c5/3192c5a13626653bffeb2c1171df716f.jpg' alt='Not Avaiable'/>
         
-        <div><p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'500'}}>Sukhman</p><p style={{color:'grey', fontSize:'12pt', marginTop:'-10px',marginLeft:'10px', fontWeight:'500'}}>16-Sep-2023</p></div>
+        <div><p style={{color:'black', fontSize:'15pt', marginLeft:'10px', fontWeight:'500'}}>Blog</p><p style={{color:'grey', fontSize:'12pt', marginTop:'-10px',marginLeft:'10px', fontWeight:'500'}}>16-Sep-2023</p></div>
         </div>
           </div>
           </div>
